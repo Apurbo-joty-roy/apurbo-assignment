@@ -18,6 +18,9 @@ button:focus-visible {
 a {
   text-decoration: none;
 }
+img{
+    margin-right: 10px;
+}
 
 .landing-page-design {
     background-color: #ffffff;
@@ -57,7 +60,7 @@ a {
     left: 0;
     font-family: "Inter", Helvetica;
     font-weight: 700;
-    color: #ff0000;
+    color:yellow;
     font-size: 88px;
     text-align: center;
     letter-spacing: 0;
