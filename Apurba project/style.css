@@ -21,6 +21,9 @@ a {
 img{
     margin-right: 10px;
 }
+div>image{
+  padding-left: 20px;
+}
 
 .landing-page-design {
     background-color: #ffffff;
